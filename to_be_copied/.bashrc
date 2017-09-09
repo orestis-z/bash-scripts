@@ -1,1 +1,0 @@
-/home/orestis/.bashrc
